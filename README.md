@@ -22,6 +22,10 @@ A web-based application that converts 2D images into 3D voxel-based models using
 
 The **3D Image Converter** enables users to upload 2D images, which are processed through a pre-trained GAN model to generate 3D models represented as voxels. The frontend provides an intuitive user interface, while the backend handles 3D model generation and API requests.
 
+### Web Interface
+
+![3D Image Converter Web Interface](images/web_app_interface.png)
+
 ## Features
 
 - Upload a 2D image to generate a 3D voxel model.
