@@ -59,9 +59,6 @@ R3D2D
 ├── Notebooks/                    # Jupyter notebooks for experiments and analysis
 │   ├── R3D2D.ipynb         # main notebook
 │
-├── Presentations/                # Folder for project presentations
-│   └── presentation.pptx    # Final presentation slides
-│
 ├── README.md                     # Project documentation (this file)
 └── requirements.txt              # Global project dependencies for Python
 
